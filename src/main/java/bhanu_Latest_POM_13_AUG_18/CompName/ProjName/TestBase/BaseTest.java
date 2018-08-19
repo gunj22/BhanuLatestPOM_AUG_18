@@ -36,6 +36,8 @@ public class BaseTest {
 	@BeforeSuite
 	public void beforeSuite() {
 		extent = ExtentManager.getInstance();
+		
+		System.out.println("------ FOR TESTING PURPOSE-------");
 
 	}
 
