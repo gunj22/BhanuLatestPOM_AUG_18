@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="bhanu_Latest_POM_13_AUG_18.CompName.ProjName.helper.Listener.RetryListner"/>
+  </listeners>
+  <test thread-count="5" name="Second Test(failed)">
+    <classes>
+      <class name="bhanu_Latest_POM_13_AUG_18.CompName.ProjName.B">
+        <methods>
+          <include name="testingB"/>
+        </methods>
+      </class> <!-- bhanu_Latest_POM_13_AUG_18.CompName.ProjName.B -->
+    </classes>
+  </test> <!-- Second Test(failed) -->
+  <test thread-count="5" name="Third Test(failed)">
+    <classes>
+      <class name="bhanu_Latest_POM_13_AUG_18.CompName.ProjName.C">
+        <methods>
+          <include name="testingC"/>
+        </methods>
+      </class> <!-- bhanu_Latest_POM_13_AUG_18.CompName.ProjName.C -->
+    </classes>
+  </test> <!-- Third Test(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

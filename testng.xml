@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Suite">
+	
+	<listeners>
+		<listener class-name="bhanu_Latest_POM_13_AUG_18.CompName.ProjName.helper.Listener.RetryListner"></listener>
+	
+	
+	</listeners>
+	
+	
+	<test name="First Test">
+		<classes>
+			<class name="bhanu_Latest_POM_13_AUG_18.CompName.ProjName.A"></class>
+
+		</classes>
+
+	</test>
+
+
+
+	<test name="Second Test">
+		<classes>
+			<class name="bhanu_Latest_POM_13_AUG_18.CompName.ProjName.B"></class>
+
+		</classes>
+
+	</test>
+
+
+
+
+	<test name="Third Test">
+		<classes>
+			<class name="bhanu_Latest_POM_13_AUG_18.CompName.ProjName.C"></class>
+
+		</classes>
+
+	</test>
+
+
+
+</suite>
+
+
+

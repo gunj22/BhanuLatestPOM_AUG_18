@@ -1,0 +1,24 @@
+2018-08-15 11:00:39 INFO  LoggerHelper:26 - First time log is displaying
+2018-08-15 11:00:40 INFO  LoggerHelper:27 - -----------First time log is displaying----------
+2018-08-15 14:39:43 INFO  Retry:18 - Retrying test testing with status FAIL for the 1 time.
+2018-08-15 14:39:43 INFO  Retry:18 - Retrying test testing with status FAIL for the 2 time.
+2018-08-15 14:39:43 INFO  Retry:18 - Retrying test testing with status FAIL for the 3 time.
+2018-08-15 14:39:43 INFO  Retry:18 - Retrying test testing with status FAIL for the 1 time.
+2018-08-15 14:39:43 INFO  Retry:18 - Retrying test testing with status FAIL for the 2 time.
+2018-08-15 14:39:43 INFO  Retry:18 - Retrying test testing with status FAIL for the 3 time.
+2018-08-15 14:54:56 INFO  Retry:18 - Retrying test testing with status FAIL for the 1 time.
+2018-08-15 14:54:56 INFO  Retry:18 - Retrying test testing with status FAIL for the 2 time.
+2018-08-15 14:54:56 INFO  Retry:18 - Retrying test testing with status FAIL for the 3 time.
+2018-08-15 14:54:56 INFO  Retry:18 - Retrying test testing with status FAIL for the 1 time.
+2018-08-15 14:54:56 INFO  Retry:18 - Retrying test testing with status FAIL for the 2 time.
+2018-08-15 14:54:56 INFO  Retry:18 - Retrying test testing with status FAIL for the 3 time.
+2018-08-15 15:06:27 INFO  Retry:18 - Retrying test testingB with status FAIL for the 1 time.
+2018-08-15 15:06:27 INFO  Retry:18 - Retrying test testingB with status FAIL for the 2 time.
+2018-08-15 15:06:27 INFO  Retry:18 - Retrying test testingB with status FAIL for the 3 time.
+2018-08-15 15:06:27 INFO  Retry:18 - Retrying test testingC with status FAIL for the 1 time.
+2018-08-15 15:06:27 INFO  Retry:18 - Retrying test testingC with status FAIL for the 2 time.
+2018-08-15 15:06:27 INFO  Retry:18 - Retrying test testingC with status FAIL for the 3 time.
+2018-08-15 15:09:40 INFO  Retry:18 - Retrying test testingB with status FAIL for the 1 time.
+2018-08-15 15:09:40 INFO  Retry:18 - Retrying test testingB with status FAIL for the 2 time.
+2018-08-15 15:09:40 INFO  Retry:18 - Retrying test testingC with status FAIL for the 1 time.
+2018-08-15 15:09:40 INFO  Retry:18 - Retrying test testingC with status FAIL for the 2 time.
