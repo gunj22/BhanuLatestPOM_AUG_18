@@ -5,13 +5,15 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
+import bhanu_Latest_POM_13_AUG_18.CompName.ProjName.helper.Resource.ResourceHelper;
+
 public class ExtentManager {
 
 	private static ExtentReports extent;
 
 	public static ExtentReports getInstance() {
 		if (extent == null) {
-			return createInstance("test-output/extent.html");
+			return createInstance(ResourceHelper.getResourcePath("\\src\\main\\resources\\reports\\extent.html"));
 		} else {
 			return extent;
 		}
