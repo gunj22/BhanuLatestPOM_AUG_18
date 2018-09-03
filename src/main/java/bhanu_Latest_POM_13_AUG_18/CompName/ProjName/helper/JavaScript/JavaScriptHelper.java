@@ -78,7 +78,7 @@ public class JavaScriptHelper {
 	}
 
 	public void zoomBy60Percentage() {
-		executeScript("document.body.style.zoom='60%'");
+		executeScript("document.body.style.zoom='40%'");
 	}
 
 	public void clickElement(WebElement element) {
